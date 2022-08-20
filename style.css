@@ -1,0 +1,57 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-color: rgb(6, 22, 36);
+}
+
+* {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 47px;
+}
+
+h1 p:first-child {
+    letter-spacing: 5px;
+}
+
+h1 p:last-child {
+    letter-spacing: 20px;
+}
+
+.m-top-7 {
+    margin-top: 70px!important;
+}
+
+.btn {
+    margin:0px 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#chosenColor {
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.m-top-3 {
+    margin-top:30px!important;
+}
+
+.box {
+    width:190px;
+    height: 190px;
+    border-radius: 12px;
+    background-color: steelblue;
+    margin-top: 25px;
+}
+
+.m-top-5 {
+    margin-top: 50px!important;;
+}
+
+.hidden {
+    display: none;
+}
